@@ -1,6 +1,3 @@
-# deploy_guide1
-
-# deploy_guide
 
 1. Create an IAM User for GitHub Actions
 
